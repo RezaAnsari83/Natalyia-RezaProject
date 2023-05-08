@@ -14,7 +14,7 @@ header{
     text-align: center;
 }
 #container{
-    background-color:#4a4444;
+    background-color:#413d3d;
     /* margin: 0 200px; */
     width: 60vw;
     display: flex;
@@ -65,5 +65,6 @@ input[type=textarea]{
     margin: 10px;
     padding: 5px 10px;
     text-align: left;
+    color: blueviolet;
     
 }
